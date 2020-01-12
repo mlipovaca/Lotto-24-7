@@ -1,0 +1,25 @@
+C:\Users\Matej\source\repos\Lotto 7-35\Lotto 7-35\obj\Debug\Lotto_7_35.lotoForm.resources
+C:\Users\Matej\source\repos\Lotto 7-35\Lotto 7-35\obj\Debug\Lotto_7_35.Pocetna.resources
+C:\Users\Matej\source\repos\Lotto 7-35\Lotto 7-35\obj\Debug\Lotto_7_35.Properties.Resources.resources
+C:\Users\Matej\source\repos\Lotto 7-35\Lotto 7-35\obj\Debug\Lotto_7_35.Rezultat.resources
+C:\Users\Matej\source\repos\Lotto 7-35\Lotto 7-35\obj\Debug\Lotto 7-35.csproj.GenerateResource.cache
+C:\Users\Matej\source\repos\Lotto 7-35\Lotto 7-35\bin\Debug\Lotto 7-35.exe.config
+C:\Users\Matej\source\repos\Lotto 7-35\Lotto 7-35\bin\Debug\Lotto 7-35.exe
+C:\Users\Matej\source\repos\Lotto 7-35\Lotto 7-35\bin\Debug\Lotto 7-35.pdb
+C:\Users\Matej\source\repos\Lotto 7-35\Lotto 7-35\obj\Debug\Lotto 7-35.exe
+C:\Users\Matej\source\repos\Lotto 7-35\Lotto 7-35\obj\Debug\Lotto 7-35.pdb
+C:\Users\Matej\source\repos\Lotto 7-35\Lotto 7-35\obj\Debug\Lotto 7-35.csproj.CopyComplete
+C:\Users\Matej\source\repos\Lotto 7-35\Lotto 7-35\bin\Debug\SwiPlCs.dll
+C:\Users\Matej\source\repos\Lotto\Lotto\bin\Debug\Lotto 7-35.exe.config
+C:\Users\Matej\source\repos\Lotto\Lotto\bin\Debug\Lotto 7-35.exe
+C:\Users\Matej\source\repos\Lotto\Lotto\bin\Debug\Lotto 7-35.pdb
+C:\Users\Matej\source\repos\Lotto\Lotto\bin\Debug\SwiPlCs.dll
+C:\Users\Matej\source\repos\Lotto\Lotto\obj\Debug\Lotto_7_35.lotoForm.resources
+C:\Users\Matej\source\repos\Lotto\Lotto\obj\Debug\Lotto_7_35.Pocetna.resources
+C:\Users\Matej\source\repos\Lotto\Lotto\obj\Debug\Lotto_7_35.Properties.Resources.resources
+C:\Users\Matej\source\repos\Lotto\Lotto\obj\Debug\Lotto_7_35.Rezultat.resources
+C:\Users\Matej\source\repos\Lotto\Lotto\obj\Debug\Lotto 7-35.csproj.GenerateResource.cache
+C:\Users\Matej\source\repos\Lotto\Lotto\obj\Debug\Lotto 7-35.csproj.CopyComplete
+C:\Users\Matej\source\repos\Lotto\Lotto\obj\Debug\Lotto 7-35.exe
+C:\Users\Matej\source\repos\Lotto\Lotto\obj\Debug\Lotto 7-35.pdb
+C:\Users\Matej\source\repos\Lotto\Lotto\obj\Debug\Lotto 7-35.csprojAssemblyReference.cache
