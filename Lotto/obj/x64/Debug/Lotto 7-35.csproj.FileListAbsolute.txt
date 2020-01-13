@@ -11,3 +11,16 @@ C:\Users\Matej\source\repos\Lotto\Lotto\obj\x64\Debug\Lotto 7-35.csproj.CopyComp
 C:\Users\Matej\source\repos\Lotto\Lotto\obj\x64\Debug\Lotto 7-35.exe
 C:\Users\Matej\source\repos\Lotto\Lotto\obj\x64\Debug\Lotto 7-35.pdb
 C:\Users\Matej\source\repos\Lotto\Lotto\obj\x64\Debug\Lotto 7-35.csprojAssemblyReference.cache
+C:\Users\Matej\Documents\GitHub\Lotto\Lotto\bin\x64\Debug\Lotto 7-35.exe.config
+C:\Users\Matej\Documents\GitHub\Lotto\Lotto\bin\x64\Debug\Lotto 7-35.exe
+C:\Users\Matej\Documents\GitHub\Lotto\Lotto\bin\x64\Debug\Lotto 7-35.pdb
+C:\Users\Matej\Documents\GitHub\Lotto\Lotto\obj\x64\Debug\Lotto 7-35.csprojAssemblyReference.cache
+C:\Users\Matej\Documents\GitHub\Lotto\Lotto\obj\x64\Debug\Lotto_7_35.lotoForm.resources
+C:\Users\Matej\Documents\GitHub\Lotto\Lotto\obj\x64\Debug\Lotto_7_35.Pocetna.resources
+C:\Users\Matej\Documents\GitHub\Lotto\Lotto\obj\x64\Debug\Lotto_7_35.Properties.Resources.resources
+C:\Users\Matej\Documents\GitHub\Lotto\Lotto\obj\x64\Debug\Lotto_7_35.Rezultat.resources
+C:\Users\Matej\Documents\GitHub\Lotto\Lotto\obj\x64\Debug\Lotto 7-35.csproj.GenerateResource.cache
+C:\Users\Matej\Documents\GitHub\Lotto\Lotto\obj\x64\Debug\Lotto 7-35.csproj.CopyComplete
+C:\Users\Matej\Documents\GitHub\Lotto\Lotto\obj\x64\Debug\Lotto 7-35.exe
+C:\Users\Matej\Documents\GitHub\Lotto\Lotto\obj\x64\Debug\Lotto 7-35.pdb
+C:\Users\Matej\Documents\GitHub\Lotto\Lotto\bin\x64\Debug\SwiPlCs.dll
